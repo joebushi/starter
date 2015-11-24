@@ -4,7 +4,7 @@ category: blog
 splash: ""
 tags: 
   - bananas
-published: false
+published: true
 title: Testing prose.io starter project
 ---
 
